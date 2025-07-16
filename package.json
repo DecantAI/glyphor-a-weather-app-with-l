@@ -1,0 +1,41 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A React based weather app with location search",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "react",
+    "app",
+    "location",
+    "search"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/weather-app/issues"
+  },
+  "homepage": "https://github.com/yourusername/weather-app#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "eslint": "^7.11.0",
+    "eslint-plugin-react": "^7.21.5"
+  }
+}
